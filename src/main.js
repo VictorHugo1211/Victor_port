@@ -1,5 +1,5 @@
 const SocialMedia = {
-    github: 'galartixa',
+    github: 'VictorHugo1211',
     instagram: 'seraquevoa',
     twitter: 'victorhugo639'
 }
